@@ -1,0 +1,4 @@
+#docker run --rm -it debian
+apt -y update; \
+apt -y upgrade; \
+apt -y install build-essential manpages-dev vim git"
